@@ -1,2 +1,2 @@
 # CVMNet
-Official implementation of CVMNet based on pytorch
+📌 Code will be released upon paper acceptance.
