@@ -1,2 +1,2 @@
 # CVMNet
-📌 Code will be released after the manuscript has been accepted for publication.
+📌 The implementation will be made publicly available after the acceptance of the manuscript.
